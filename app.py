@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+fro flask import Flask, request, jsonify
 from SpamReqInvApiMain import *
 from SpamReqInvApiSetting import *
 import threading
